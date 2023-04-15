@@ -160,6 +160,123 @@ const Restaurants={
             Image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/b1tk2j0gimil2m05bziz"
 
         },
+        {
+            id:17,
+            Restaurant_name:"Mad Momos",
+            Description:"Chinese,Tibetan,Nepalese,Pizza",
+            Rating:3.7,
+            Delivery_Time:"32 MINS",
+            Per_Person: "200 For Two",
+            Image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/socnebubliehguk0ed1s"
+        },
+        {
+            id:18,
+            Restaurant_name:"AL BAIK Burger",
+            Description:"American,Snacks,Pizza",
+            Rating:2.2,
+            Delivery_Time:"20 MINS",
+            Per_Person: "200 For Two",
+            Image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/izii8bjcqatkhkvek0gg"
+        },
+        {
+            id:19,
+            Restaurant_name:"FOODS INNS Fast Food",
+            Description:"Berger,Snacks,Pizza",
+            Rating:2.4,
+            Delivery_Time:"19 MINS",
+            Per_Person: "149 For Two",
+            Image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/q8mvi6rjrobezyvngsfk"
+        },
+        {
+            id:20,
+            Restaurant_name:"BRIJWASI SWEETS",
+            Description:"Sweets,Snacks,Chaat",
+            Rating:4.3,
+            Delivery_Time:"22 MINS",
+            Per_Person: "400 For Two",
+            Image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/j2mvbztqsriywbqag1as"
+        },
+        {
+            id:21,
+            Restaurant_name:"Hotel Nityananad",
+            Description:"Indian,Chinese",
+            Rating:3.5,
+            Delivery_Time:"22 MINS",
+            Per_Person: "300 For Two",
+            Image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/dohkh42swu7zl9lzbozv"
+        },
+        {
+            id:22,
+            Restaurant_name:"Supreme Chinese",
+            Description:"Chinese,North-Indian,Biryani",
+            Rating:3.6,
+            Delivery_Time:"36 MINS",
+            Per_Person: "250 For Two",
+            Image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/xnduobtvjihtjvvvvjdi"
+        },
+        {
+            id:23,
+            Restaurant_name:"WOW Momo",
+            Description:"Healthy_Food,Chinese,Desserts,Beverages",
+            Rating:4.2,
+            Delivery_Time:"30 MINS",
+            Per_Person: "400 For Two",
+            Image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/90ac3da2963978f866177263fba805a7"
+        },
+        {
+            id:18,
+            Restaurant_name:"AL BAIK Burger",
+            Description:"American,Snacks,Pizza",
+            Rating:2.2,
+            Delivery_Time:"20 MINS",
+            Per_Person: "200 For Two",
+            Image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/izii8bjcqatkhkvek0gg"
+        },
+        {
+            id:18,
+            Restaurant_name:"AL BAIK Burger",
+            Description:"American,Snacks,Pizza",
+            Rating:2.2,
+            Delivery_Time:"20 MINS",
+            Per_Person: "200 For Two",
+            Image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/izii8bjcqatkhkvek0gg"
+        },
+        {
+            id:18,
+            Restaurant_name:"AL BAIK Burger",
+            Description:"American,Snacks,Pizza",
+            Rating:2.2,
+            Delivery_Time:"20 MINS",
+            Per_Person: "200 For Two",
+            Image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/izii8bjcqatkhkvek0gg"
+        },
+        {
+            id:18,
+            Restaurant_name:"AL BAIK Burger",
+            Description:"American,Snacks,Pizza",
+            Rating:2.2,
+            Delivery_Time:"20 MINS",
+            Per_Person: "200 For Two",
+            Image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/izii8bjcqatkhkvek0gg"
+        },
+        {
+            id:18,
+            Restaurant_name:"AL BAIK Burger",
+            Description:"American,Snacks,Pizza",
+            Rating:2.2,
+            Delivery_Time:"20 MINS",
+            Per_Person: "200 For Two",
+            Image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/izii8bjcqatkhkvek0gg"
+        },
+        {
+            id:18,
+            Restaurant_name:"AL BAIK Burger",
+            Description:"American,Snacks,Pizza",
+            Rating:2.2,
+            Delivery_Time:"20 MINS",
+            Per_Person: "200 For Two",
+            Image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/izii8bjcqatkhkvek0gg"
+        },
     ]
 }
 export default Restaurants;
