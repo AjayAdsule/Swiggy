@@ -1,23 +1,18 @@
 import React from 'react'
 import Header from './componenet/Header'
-import Filter from './componenet/Filter'
-import Product from './componenet/Product'
-import AllProduct from './componenet/AllProduct'
-import Cards from './Cards/Cards'
 import Products from './Cards/Products'
-import Cards2 from './Cards/Cards'
+import Footers from './componenet/Footers'
+import DetailPage from './componenet/DetailPage'
+
 
 const App = () => {
   return (
-    <div>
+    <React.Fragment>
       <Header/>
-      {/* <Product/> */}
-      {/* <Filter/> */}
-      {/* <Cards></Cards> */}
-      <Products></Products>
-      {/* <Cards2></Cards2> */}
-     
-    </div>
+      <Products/>
+      <Footers/> 
+      <DetailPage/>
+    </React.Fragment>
   )
 }
 

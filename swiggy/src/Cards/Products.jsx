@@ -2,7 +2,7 @@ import React, { useEffect,useState } from 'react'
 import Restaurants from '../componenet/Res'
 import Cards from './Cards'
 import { Grid } from '@mui/material'
-
+import Footers from '../componenet/Footers'
 const Products = () => {
     const [product, setProduct] = useState([Restaurants])
     useEffect(()=>{
@@ -37,6 +37,7 @@ const Products = () => {
     </React.Fragment>
   )
 }
+<Footers/>
 
 export default Products
 
